@@ -47,9 +47,10 @@
 
 # 📊 GitHub Stats:
 <img src="https://komarev.com/ghpvc/?username=Shahd-Khattab&style=flat-square&color=green" alt=""/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd-Khattab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahd-Khattab&theme=tokyonight&hide_border=false)<br/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shahd-Khattab&theme=white&border_radius=4.7)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd-Khattab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shahd-Khattab&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
