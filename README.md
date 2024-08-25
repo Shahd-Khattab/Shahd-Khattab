@@ -46,7 +46,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://img.shields.io/badge/Profile_Views-7593-blue)<br/>
+<img src="https://komarev.com/ghpvc/?username=Shahd-Khattab&style=flat-square&color=green" alt=""/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd-Khattab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahd-Khattab&theme=tokyonight&hide_border=false)<br/>
 
