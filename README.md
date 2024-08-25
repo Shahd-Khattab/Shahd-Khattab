@@ -6,9 +6,9 @@
 
 # 📊 GitHub Stats:
 ![](https://img.shields.io/badge/Profile_Views-7593-blue)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Shahd-Khattab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahd-Khattab&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd-Khattab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shahd-Khattab&theme=tokyonight&hide_border=false)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shahd-Khattab&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
